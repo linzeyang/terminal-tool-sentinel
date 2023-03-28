@@ -5,9 +5,11 @@ Take advantage of Github actions and dependabot to monitor and update chosen ter
 ## Tools
 - pip
 - pipx
+- black
 - flake8
 - httpie
 - ipython
+- isort
 - mypy
 - poetry
 - pre-commit
