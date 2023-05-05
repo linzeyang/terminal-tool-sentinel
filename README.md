@@ -14,3 +14,4 @@ Take advantage of Github actions and dependabot to monitor and update chosen ter
 - poetry
 - pre-commit
 - pylint
+- supervisor
