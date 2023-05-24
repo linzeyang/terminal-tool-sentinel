@@ -7,10 +7,12 @@ Take advantage of Github actions and dependabot to monitor and update chosen ter
 - pipx
 - black
 - flake8
+- hatch
 - httpie
 - ipython
 - isort
 - mypy
+- pdm
 - poetry
 - pre-commit
 - pylint
