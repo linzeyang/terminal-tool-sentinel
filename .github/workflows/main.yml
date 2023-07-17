@@ -26,5 +26,8 @@ jobs:
     - name: Update pip
       run: python -m pip install -U pip
 
+    - name: Install pipx
+      run: python -m pip install pipx
+
     - name: Update other tools
-      run: python -m pip install -U -r requirements.txt
+      run: python install.py
