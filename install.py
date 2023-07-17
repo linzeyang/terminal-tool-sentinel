@@ -1,4 +1,4 @@
-import subprocess
+import os
 from pathlib import Path
 
 
@@ -9,7 +9,6 @@ with (Path(__file__).parent / "requirements.txt").open("r") as file:
         if line and not line.startswith("pip"):
             print(f"Trying to install {line} ...")
 
-            with subprocess.Popen(
-                ("pipx", "install", line), shell=True, universal_newlines=True
-            ) as proc:
-                print(proc.communicate())
+            res = os.system(f"pipx install {line}")
+
+            print(f"{res=}")
