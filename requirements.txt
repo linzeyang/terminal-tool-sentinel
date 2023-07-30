@@ -3,7 +3,7 @@ pipx==1.2.0
 
 black==23.7.0
 
-flake8==6.0.0
+flake8==6.1.0
 
 hatch==1.7.0
 
