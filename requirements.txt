@@ -9,7 +9,7 @@ hatch==1.9.0
 
 httpie==3.2.2
 
-ipython==8.18.1
+ipython==8.19.0
 
 isort==5.13.2
 
