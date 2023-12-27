@@ -5,7 +5,7 @@ black==23.12.1
 
 flake8==6.1.0
 
-hatch==1.9.0
+hatch==1.9.1
 
 httpie==3.2.2
 
