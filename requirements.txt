@@ -19,7 +19,7 @@ pdm==2.12.3
 
 poetry==1.7.1
 
-pre-commit==3.6.1
+pre-commit==3.6.2
 
 pylint==3.0.3
 
