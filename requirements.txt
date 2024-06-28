@@ -21,6 +21,6 @@ poetry==1.8.3
 
 pre-commit==3.7.1
 
-pylint==3.2.3
+pylint==3.2.4
 
 supervisor==4.2.5
