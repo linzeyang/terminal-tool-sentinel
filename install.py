@@ -3,7 +3,7 @@ from pathlib import Path
 
 
 with (Path(__file__).parent / "requirements.txt").open("r") as file:
-    while line := file.readline():
+    for line in file:
         line = line.strip()
 
         if line and not line.startswith("pip"):
