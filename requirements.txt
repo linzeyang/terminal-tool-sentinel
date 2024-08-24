@@ -22,6 +22,8 @@ poetry==1.8.3
 
 pre-commit==3.8.0
 
+ptpython==3.0.29
+
 pylint==3.2.6
 
 supervisor==4.2.5
