@@ -15,5 +15,6 @@ Take advantage of Github actions and dependabot to monitor and update chosen ter
 - pdm
 - poetry
 - pre-commit
+- ptpython
 - pylint
 - supervisor
