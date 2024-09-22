@@ -24,6 +24,6 @@ pre-commit==3.8.0
 
 ptpython==3.0.29
 
-pylint==3.2.7
+pylint==3.3.0
 
 supervisor==4.2.5
