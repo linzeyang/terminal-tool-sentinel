@@ -4,7 +4,9 @@ import os
 from pathlib import Path
 
 
-with (Path(__file__).parent / "requirements.txt").open("r") as file:
+with Path(__file__).parent.joinpath("requirements.txt").open(
+    "r", encoding="utf-8"
+) as file:
     for line in file:
         line = line.strip()
 
