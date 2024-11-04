@@ -4,7 +4,7 @@ flake8==7.1.1
 
 hatch==1.13.0
 
-httpie==3.2.3
+httpie==3.2.4
 
 ipython==8.29.0
 
