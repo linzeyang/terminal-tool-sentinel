@@ -9,6 +9,7 @@ Take advantage of Github actions and dependabot to monitor and update chosen ter
 - flake8
 - hatch
 - httpie
+- httpx[cli]
 - ipython
 - isort
 - mypy
