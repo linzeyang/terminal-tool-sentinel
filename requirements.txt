@@ -6,7 +6,7 @@ hatch==1.13.0
 
 httpie==3.2.4
 
-httpx[cli]==0.28.0
+httpx[cli]==0.28.1
 
 ipython==8.30.0
 
