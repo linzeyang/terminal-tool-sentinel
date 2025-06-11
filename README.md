@@ -18,4 +18,5 @@ Take advantage of Github actions and dependabot to monitor and update chosen ter
 - pre-commit
 - ptpython
 - pylint
+- pyupgrade
 - supervisor
