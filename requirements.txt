@@ -28,6 +28,6 @@ ptpython==3.0.31
 
 pylint==4.0.3
 
-pyupgrade==3.21.1
+pyupgrade==3.21.2
 
 supervisor==4.3.0
