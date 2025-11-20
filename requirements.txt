@@ -24,7 +24,7 @@ poetry==2.2.1
 
 pre-commit==4.4.0
 
-ptpython==3.0.31
+ptpython==3.0.32
 
 pylint==4.0.3
 
