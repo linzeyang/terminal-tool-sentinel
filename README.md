@@ -10,6 +10,7 @@ Take advantage of Github actions and dependabot to monitor and update chosen ter
 - hatch
 - httpie
 - httpx[cli]
+- httpx2[cli]
 - ipython
 - isort
 - mypy
