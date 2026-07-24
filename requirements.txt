@@ -6,7 +6,7 @@ hatch==1.17.1
 
 httpie==3.2.4
 
-httpx2[cli]==2.7.0
+httpx2[cli]==2.9.0
 
 httpx[cli]==0.28.1
 
