@@ -24,7 +24,7 @@ pipx==1.16.6
 
 poetry==2.4.1
 
-pre-commit==4.6.1
+pre-commit==4.6.2
 
 ptpython==3.0.32
 
