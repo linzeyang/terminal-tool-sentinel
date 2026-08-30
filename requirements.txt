@@ -12,7 +12,7 @@ httpx[cli]==0.28.1
 
 ipython==9.16.1
 
-isort==8.0.1
+isort==9.0.1
 
 mypy==2.3.1
 
