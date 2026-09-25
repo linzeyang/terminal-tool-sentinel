@@ -22,7 +22,7 @@ pip==26.2.1
 
 pipx==1.17.5
 
-poetry==2.4.3
+poetry==2.5.1
 
 pre-commit==4.6.2
 
