@@ -14,6 +14,6 @@ with (
         if line and not line.startswith("pip"):
             print(f"Trying to install {line} ...")
 
-            res: int = os.system(f"pipx install {line}")
+            res: int = os.system(f"uv tool install {line}")
 
             print(f"{res=}")
