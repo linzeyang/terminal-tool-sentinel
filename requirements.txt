@@ -10,7 +10,7 @@ httpx2[cli]==2.16.0
 
 httpx[cli]==0.28.1
 
-ipython==9.18.0
+ipython==9.18.1
 
 isort==9.0.2
 
